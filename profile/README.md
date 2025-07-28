@@ -1,7 +1,4 @@
-# Vlabs‑Collective
+# 👋 Welcome to Vlabs‑Collective
 
-This repo holds org‑wide defaults for Vlabs‑Collective.  
-• Issue & PR templates  
-• Contribution guidelines  
+Stay tuned—**more exciting projects coming soon…** 🚀  
 
-Any repo in this org will automatically pick these up.
